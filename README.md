@@ -18,6 +18,24 @@
 
 <p><a <img align="left" src="[https://cdn.ko-fi.com/cdn/kofi3.png?v=3](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)" height="50" width="210" alt="jstivenpg" /></a></p><br><br>
 
+name: GitHub City
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.skyline.city.svg
+  token: NOT_NEEDED
+  base: ""
+  plugin_skyline: yes
+  plugin_skyline_year: 2020
+  plugin_skyline_frames: 6
+  plugin_skyline_quality: 1
+  plugin_skyline_settings: |
+    {
+      "url": "https://honzaap.github.io/GithubCity?name=${login}&year=${year}",
+      "ready": "[...document.querySelectorAll('.display-info span')].map(span => span.innerText).includes('${login}')",
+      "wait": 4,
+      "hide": ".github-corner, .footer-link, .buttons-options, .mobile-rotate, .display-info span:first-child"
+    }
+
 <!--
 **jstivenpg/jstivenpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
