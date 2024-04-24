@@ -54,7 +54,7 @@ Feel free to reach out to me if you have any questions or would like to collabor
 - **Email**: [Personal Email](jstivenpachong@gmail.com)
 
 <div align="left">
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&color=#FFFF00&logoColor=white"
     alt="github logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
