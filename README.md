@@ -4,26 +4,24 @@ Hi there! I'm a software developer with a passion for building scalable and main
 
 ## Skills
 
-- **Java**: I have extensive experience with Java, including Java 8 and Java 11 features.
-- **Spring Boot**: I have a strong understanding of the Spring Boot framework and how to build RESTful APIs using Spring MVC.
-- **Microservices**: I have experience designing and implementing microservices architecture using Spring Boot and Spring Cloud.
+- **Java**: I have extensive experience with Java, including Java 11 and Java 21 features.
+- **Spring Boot**: I have a strong understanding of the Spring Boot framework and how to build RESTful APIs..
+- **Microservices**: I have experience designing and implementing microservices architecture using Spring Boot.
 - **Database**: I have worked with various databases including MySQL, PostgreSQL, and MongoDB.
-- **Cloud**: I have experience deploying applications to cloud platforms such as AWS and Azure.
 - **Docker**: I have experience containerizing applications using Docker and Docker Compose.
-- **Kubernetes**: I have experience deploying and managing applications using Kubernetes.
 
 ## Projects
 
 Here are some of my recent projects:
 
-- **Project 1**: A microservices-based e-commerce platform using Java Spring Boot, Spring Cloud, and Kubernetes.
-- **Project 2**: A RESTful API for managing customer data using Java Spring Boot and Spring Data JPA.
-- **Project 3**: A Dockerized web application using Java Spring Boot and MySQL.
+- **Project 1**: A microservices-based CRUD using Java Spring Boot, Maven, Postgres, Docker, Swagger and Postman for create request
+- **Project 2**: A RESTful API for managing employees data using Java Spring Boot and Spring Data JPA.
+- **Project 3**: A Dockerized web application using Java Spring Boot and Redis Caché.
 
 ## Contact Me
 
 Feel free to reach out to me if you have any questions or would like to collaborate on a project. You can find me on the following platforms:
 
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
-- **GitHub**: [GitHub Profile](https://github.com/your-username)
-- **Email**: your.email@example.com
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/jspg/)
+- **GitHub**: [GitHub Profile](https://github.com/jstivenpg)
+- **Email**: jstivenpachong@gmail.com
