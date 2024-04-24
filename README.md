@@ -24,4 +24,4 @@ Feel free to reach out to me if you have any questions or would like to collabor
 
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/jspg/)
 - **GitHub**: [GitHub Profile](https://github.com/jstivenpg)
-- **Email**: jstivenpachong@gmail.com
+- **Email**: [Personal Email]jstivenpachong@gmail.com
