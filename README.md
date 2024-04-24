@@ -49,6 +49,13 @@ Here are some of my recent projects:
 
 Feel free to reach out to me if you have any questions or would like to collaborate on a project. You can find me on the following platforms:
 
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/jspg/)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/jspg/) 
 - **GitHub**: [GitHub Profile](https://github.com/jstivenpg)
 - **Email**: [Personal Email](jstivenpachong@gmail.com)
+
+<div align="left">
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"
+    alt="github logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
