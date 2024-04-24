@@ -1,6 +1,6 @@
 # About Me
 
-Hi there! I'm a software developer with a passion for building scalable and maintainable applications using Java Spring Boot and microservices architecture. I have experience working with RESTful APIs, Spring Data JPA, Spring Security, and cloud technologies such as Docker and Kubernetes.
+Hi there! I'm a software developer with a passion for building scalable and maintainable applications using Java Spring Boot and microservices architecture. I have experience working with RESTful APIs, Spring Data JPA and cloud technologies such as Docker and Kubernetes.
 
 ## Skills
 
