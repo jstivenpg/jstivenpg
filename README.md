@@ -1,9 +1,11 @@
 # About Me
 
+<div align="left">
 Hi there! I'm a software developer with a passion for building scalable and maintainable applications using Java Spring Boot and microservices architecture. I have experience working with RESTful APIs, Spring Data JPA and cloud technologies such as Docker and Kubernetes.
 
 <img src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" align="right" width="350px" display="inline-block" alt="Setup">
 
+</div>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java"  />
   <img width="12" />
