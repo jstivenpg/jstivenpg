@@ -43,7 +43,7 @@ Hi there! I'm a software developer with a passion for building scalable and main
   
 </div>
 
-<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fb2%2F32%2F55%2Fb2325557a903fdf56b50da4656da9221.gif&tbnid=6JyTXRGAxG6vLM&vet=12ahUKEwj7z4GfseCFAxUocjABHcP5BmAQxiAoCnoECAAQSA..i&imgrefurl=https%3A%2F%2Far.pinterest.com%2Fpin%2F814447913847730906%2F&docid=Jf2D44SYU3Rw8M&w=800&h=600&itg=1&q=programando%20gif%20retro&ved=2ahUKEwj7z4GfseCFAxUocjABHcP5BmAQxiAoCnoECAAQSA" height="30" alt="css3 logo"  />
+<img src="https://ar.pinterest.com/pin/814447913847730906/"  />
   <img width="12" />
 
 ## Skills
