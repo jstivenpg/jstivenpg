@@ -1,48 +1,27 @@
-<div>
-# About Me
+<h4 align="center">
+:construction: Proyecto en construcción :construction:
+</h4>
 
+## About Me
+
+<div>
 Hi there! I'm a software developer with a passion for building scalable and maintainable applications using Java Spring Boot and microservices architecture. I have experience working with RESTful APIs, Spring Data JPA and cloud technologies such as Docker and Kubernetes.
 </div>
 
-<div>
-<img src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" align="right" width="350px" display="inline-block" alt="Setup">
-</div>
+##
 
-<hr>
+<div align="center">
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="30" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" height="30" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-original.svg" height="30" alt="junit logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" height="30" alt="oracle logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" height="30" alt="swagger logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/yaml/yaml-original.svg" height="30" alt="yaml logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
+  | Herramienta / Tecnologia | Nivel de conocimiento |-- | Herramienta / Tecnologia | Nivel de conocimiento |
+|--------------------------|-----------------------| -- |--------------------------|-----------------------|
+| <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java"/></div> | ⭐️⭐️⭐️⭐️(4/5) || <div align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" height="40" alt="mysql"/></div> | ⭐️⭐️⭐️⭐️(4/5) |
+| <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring"/></div> | ⭐️⭐️⭐️⭐️(4/5) || <div align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" height="40" alt="oracle"/></div> | ⭐️⭐️⭐️⭐️(4/5) |
+| <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="postman"/></div> | ⭐️⭐️⭐️⭐️(4/5) || <div align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql"/></div> | ⭐️⭐️⭐️⭐️(4/5) |
+| <div align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" height="40" alt="docker"/></div> | ⭐️⭐️⭐️(3/5) || <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5"/></div> | ⭐️⭐️⭐️(3/5) |
+| <div align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap"/></div> | ⭐️⭐️⭐️(3/5) || <div align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" height="40" alt="swagger"/></div> | ⭐️⭐️⭐️⭐️(4/5) |
+| <div align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" height="40" alt="jira"/></div> | ⭐️⭐️⭐️⭐️(4/5) || <div align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/yaml/yaml-original.svg" height="40" alt="yaml"/></div> | ⭐️⭐️⭐️⭐️(4/5) |
+| <div align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-original.svg" height="40" alt="junit"/></div> | ⭐️⭐️⭐️⭐️(4/5) || <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3"/></div> | ⭐️⭐️⭐️(3/5) |
+
 </div>
 
 ## Skills
@@ -63,7 +42,7 @@ Here are some of my recent projects:
 
 ## Contact Me
 
-Feel free to reach out to me if you have any questions or would like to collaborate on a project. You can find me on the following platforms:
+> Feel free to reach out to me if you have any questions or would like to collaborate on a project. You can find me on the following platforms:
 
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/jspg/) 
 - **GitHub**: [GitHub Profile](https://github.com/jstivenpg)
@@ -76,3 +55,17 @@ Feel free to reach out to me if you have any questions or would like to collabor
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+
+## Author
+
+| <img src="https://github.com/jstivenpg/jstivenpg/assets/43974110/603cc034-d8ff-4b01-a17d-9d6ba4b82e2b" width=115><br><sub>Jorge Stiven Pachón García</sub> |
+| :---: |
+
+
+### Calificación: ⭐️⭐️⭐️⭐️⭐️(5/5)
+
+### Calificación: ⭐️⭐️⭐️⭐️  (4/5)
+
+
+
+★★★★☆
