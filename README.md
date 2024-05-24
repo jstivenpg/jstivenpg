@@ -49,12 +49,6 @@ Here are some of my recent projects:
 - **GitHub**: [GitHub Profile](https://github.com/jstivenpg)
 - **Email**: [Personal Email](jstivenpachong@gmail.com)
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=white&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="github logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
 <!-- Cuando quieras poner tu imagen como autor. 
