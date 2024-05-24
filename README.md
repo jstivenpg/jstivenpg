@@ -56,16 +56,9 @@ Here are some of my recent projects:
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
+<!-- Cuando quieras poner tu imagen como autor. 
 ## Author
 
 | <img src="https://github.com/jstivenpg/jstivenpg/assets/43974110/603cc034-d8ff-4b01-a17d-9d6ba4b82e2b" width=115><br><sub>Jorge Stiven Pachón García</sub> |
 | :---: |
-
-
-### Calificación: ⭐️⭐️⭐️⭐️⭐️(5/5)
-
-### Calificación: ⭐️⭐️⭐️⭐️  (4/5)
-
-
-
-★★★★☆
+ -->
